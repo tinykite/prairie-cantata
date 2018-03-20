@@ -5,10 +5,10 @@ f the great inland grass sea that was the North American prairie, one percent re
 
 The Prairie Cantata is a meditation on the natural history, geography and geology of the Great Plains for chorus and nyckelharpe by composer Marya Hart. This work is supported by the artist-in-residence program of [Springboard for the Arts](https://springboardforthearts.org) in Fergus Falls, Minnesota.
 
-The work-in-progress will be performed by an eight-voice chorus directed by Jerry Rubino, as a production of [Nautilus Music Theater's](http://www.nautilusmusictheater.org) Rough Cuts program.
+The work-in-progress will be performed by an eight-voice chorus directed by Jerry Rubino, as a production of [Nautilus Music-Theater's](http://www.nautilusmusictheater.org) Rough Cuts program.
 
 **Monday, March 26 at 7:30 pm**  
-_At Nautilus Music Theater_ [(Directions)](https://www.google.com/maps/dir/''/nautilus+music+theater/@44.9492435,-93.1535978,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87f7d55b4c90fe1b:0x951f55ee2fb41800!2m2!1d-93.083558!2d44.9492649)  
+_At Nautilus Music-Theater_ [(Directions)](https://www.google.com/maps/dir/''/nautilus+music+theater/@44.9492435,-93.1535978,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87f7d55b4c90fe1b:0x951f55ee2fb41800!2m2!1d-93.083558!2d44.9492649)  
 Studio 308 Prince Street, #190  
 Saint Paul, Minnesota
 
