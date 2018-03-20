@@ -1,3 +1,5 @@
 <footer>
-<h3 class="contact">Questions? Get in touch <a href="mailto:somelink@wherever.com">via email</a></h3>
+{% assign plain_link = 'mailto:' | append: site.contact %}
+{% assign obfuscated_link = plain_link | url_encode | split: '' | reverse | join: '' %}
+<h3 class="contact">Questions? Get in touch <a class="email" href="{{ obfuscated_link }}">via email</a></h3>
 </footer>
