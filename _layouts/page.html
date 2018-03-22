@@ -3,4 +3,9 @@ layout: default
 ---
 <article class="main">
 <span class="dropcap"><img src="/assets/img/dropcap-fig.svg"></span>{{ content }}
+
+{% assign plain_link = 'mailto:' | append: site.contact %}
+	{% assign obfuscated_link = plain_link | url_encode | split: '' | reverse | join: '' %}
+<p><strong>Questions?</strong><br />
+Get in touch <a class="email" href="{{ obfuscated_link }}">via email.</a></p>
 </article>
