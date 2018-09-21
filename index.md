@@ -2,7 +2,7 @@ f the great inland grass sea that was the North American prairie, one percent re
 
 The Prairie Cantata is a meditation on the natural history, geography and geology of the Great Plains for chorus and nyckelharpa by composer Marya Hart. This work is supported by the artist-in-residence program of [Springboard for the Arts](https://springboardforthearts.org) in Fergus Falls, Minnesota.
 
-The Prairie Cantata will be premiered in by the [MState Chamber Chorale](http://www.minnesota.edu) under the direction of Teresa Ashworth on November 17, at 3pm at [First Lutheran Church](http://www.firstlutheranchurchff.org/) in Fergus Falls.
+The Prairie Cantata will be premiered in by the [MState Chamber Chorale](http://www.minnesota.edu) under the direction of Teresa Ashworth on November 17, at 3pm at [First Lutheran Church](http://www.firstlutheranchurchff.org/) in Fergus Falls, Minnesota.
 
 Admission is free, donations freely accepted.
 
